@@ -1,3 +1,9 @@
+<?php
+
+/**
+ * @var CodeIgniter\View\View $this
+ */
+?>
 <?= $this->extend('residentes/plantilla'); ?>
 
 <?= $this->section('contenido'); ?>
